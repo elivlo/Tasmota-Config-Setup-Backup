@@ -1,4 +1,0 @@
-Template: {"NAME":"WF-CS01","GPIO":[544,291,289,34,226,161,0,0,160,224,290,225,288,0],"FLAG":0,"BASE":18}
-
-ShutterOpenDuration: 22
-ShutterCloseDuration: 21
